@@ -54,10 +54,10 @@
 		3F9CE6511EC3A33F00C0CB13 /* TouchExplorer */ = {
 			isa = PBXGroup;
 			children = (
-				3F9CE6521EC3A33F00C0CB13 /* AppDelegate.swift */,
-				3F9CE6541EC3A33F00C0CB13 /* ViewController.swift */,
 				3F9CE6561EC3A33F00C0CB13 /* Main.storyboard */,
+				3F9CE6541EC3A33F00C0CB13 /* ViewController.swift */,
 				3F9CE6591EC3A33F00C0CB13 /* Assets.xcassets */,
+				3F9CE6521EC3A33F00C0CB13 /* AppDelegate.swift */,
 				3F9CE65B1EC3A33F00C0CB13 /* LaunchScreen.storyboard */,
 				3F9CE65E1EC3A33F00C0CB13 /* Info.plist */,
 			);
